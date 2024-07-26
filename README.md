@@ -1,8 +1,8 @@
 # starbuzz_cofee_webpage
-Project Overview
+Project Overview:
 This repository contains the static files for a Starbuzz Coffee website. It showcases the company's offerings, including coffee, tea, and elixirs, as well as highlighting innovative features like the Tweet Sip cup and the Bean Machine ordering system.
 
-Technologies Used
+Technologies Used:
 HTML: For structuring the webpage content.   
 CSS: For styling the visual appearance of the website.
 Images: For displaying product images and other visuals.
